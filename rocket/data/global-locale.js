@@ -1,0 +1,17 @@
+module.exports = {
+    'appNotFound': '登录失败,尚未检测到相关客户端',
+    'building': '此功能正在努力构建中,敬请期待！',
+    'motherUpdate': '检测到有新版本，请点击更新',
+    'connectionLost': '网络有误，请重新登录',
+    'networkError': '网络有误，请重试',
+    'systemError': '系统异常，请重试',
+    'logoutConfirm': '是否返回大厅？',
+    'noMsg': '当前没有系统消息',
+    'guest': '游客不支持此功能',
+    'noSupportInWeb': 'web版本不支持此功能',
+    'room': '房号',
+    'round': '局数',
+    'maxBet': '封顶',
+    'actionError': '非法操作',
+    'submitSuccess': '提交成功',
+}
