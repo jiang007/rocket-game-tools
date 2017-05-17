@@ -2,8 +2,6 @@
 
 基于Cocos Creator开发流程
 
----
-
 ## 目录说明
 
 - build-templates 构建模块，放在项目根目录下
